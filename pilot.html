@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pilot – AI Education Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">🧠 Pilot – Your AI Education Tutor</div>
+    <div class="chat-box" id="chat-box">
+      <div class="bot-msg">Hi! I’m <strong>Pilot</strong>, your AI tutor. Instead of giving direct answers I focus on explaining toguh concepts simply with analogies. Ask me anything.</div>
+    </div>
+    <form id="chat-form">
+      <input type="text" id="user-input" placeholder="Type your question..." autocomplete="off" />
+      <button type="submit">➤</button>
+    </form>
+  </div>
+
+  <script>
+    const form = document.getElementById("chat-form");
+    const input = document.getElementById("user-input");
+    const chatBox = document.getElementById("chat-box");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const question = input.value.trim();
+      if (!question) return;
+
+      addMessage("user", question);
+      input.value = "";
+
+      const res = await fetch("http://localhost:5000/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question }),
+      });
+
+      const data = await res.json();
+      addMessage("bot", data.response);
+    });
+
+    function addMessage(sender, text) {
+      const msg = document.createElement("div");
+      msg.className = sender === "user" ? "user-msg" : "bot-msg";
+      msg.textContent = text;
+      chatBox.appendChild(msg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+  </script>
+</body>
+</html>
