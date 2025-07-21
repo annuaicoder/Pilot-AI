@@ -1,0 +1,1252 @@
+[
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law states that an object at rest remains at rest and an object in motion stays in motion unless acted upon by an external force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is momentum?",
+    "response": "Momentum is the quantity of motion of a moving body, calculated as the product of its mass and velocity."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is force?",
+    "response": "Force is a push or pull upon an object resulting from its interaction with another object."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is kinetic energy?",
+    "response": "Kinetic energy is the energy possessed by a body due to its motion."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define acceleration.",
+    "response": "Acceleration is the rate of change of velocity of an object with respect to time."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is work in physics?",
+    "response": "Work is done when a force is applied to an object and the object moves in the direction of the force."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Define potential energy.",
+    "response": "Potential energy is the stored energy of an object due to its position or state."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "Explain gravitational force.",
+    "response": "Gravitational force is the force of attraction between any two masses."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is power in physics?",
+    "response": "Power is the rate at which work is done or energy is transferred."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  },
+  {
+    "intent": "physics_basic",
+    "user_input": "What is velocity?",
+    "response": "Velocity is the speed of something in a given direction."
+  }
+]
