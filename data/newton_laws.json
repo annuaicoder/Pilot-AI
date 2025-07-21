@@ -1,0 +1,32 @@
+[
+  {
+    "intent": "physics_newton_laws",
+    "user_input": "What is Newton's first law?",
+    "response": "Newton's first law says that things like to keep doing what they're doing. If something is still, it stays still. If it's moving, it keeps moving\u2014unless something (like a push or pull) changes that. Think of a toy car: it won\u2019t move unless you push it."
+  },
+  {
+    "intent": "physics_newton_laws",
+    "user_input": "Can you explain the law of inertia?",
+    "response": "Sure! The law of inertia means objects don\u2019t change their motion unless a force makes them. For example, if you're riding a bike and suddenly stop pedaling, you keep moving forward until something slows you down\u2014like friction or your brakes."
+  },
+  {
+    "intent": "physics_newton_laws",
+    "user_input": "What is Newton's second law?",
+    "response": "Newton\u2019s second law tells us how much something speeds up when you push it. It depends on how heavy the object is and how hard you push. The formula is Force = Mass \u00d7 Acceleration. If you push a light ball and a heavy box with the same strength, the ball moves faster."
+  },
+  {
+    "intent": "physics_newton_laws",
+    "user_input": "How does F = ma work?",
+    "response": "F = ma means Force equals Mass times Acceleration. Let\u2019s say you push a shopping cart. If it's empty, it moves easily. But if it\u2019s full (more mass), you need more force to make it move the same way."
+  },
+  {
+    "intent": "physics_newton_laws",
+    "user_input": "What is Newton's third law?",
+    "response": "Newton\u2019s third law says that every action has an equal and opposite reaction. If you jump off a small boat, the boat goes backward. That\u2019s because when you push on it, it pushes back on you!"
+  },
+  {
+    "intent": "physics_newton_laws",
+    "user_input": "Give a simple example of Newton's third law.",
+    "response": "Sure! When you bounce a basketball on the ground, the ball pushes down\u2014and the ground pushes it right back up. That\u2019s why it bounces."
+  }
+]
